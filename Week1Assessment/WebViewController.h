@@ -10,4 +10,8 @@
 
 @interface WebViewController : UIViewController
 
+@property NSInteger answerInt;
+@property NSString *answerString;
+
 @end
+
